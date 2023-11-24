@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Streamline school management, class organization, and add students and faculty.<br>
+Streamline Learning management, class organization, and add students and faculty.<br>
 Seamlessly track attendance, assess performance, and provide feedback. <br>
 Access records, view marks, and communicate effortlessly.
 </h3>
@@ -38,7 +38,7 @@ The Learning Management System is a web-based application built using the MERN (
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git](https://github.com/Biswajit-Behera/learning-management-system-LMS-.git)
+git clone https://github.com/Biswajit-Behera/learning-management-system-LMS-.git)
 ```
 Open 2 terminals in separate windows/tabs.
 
